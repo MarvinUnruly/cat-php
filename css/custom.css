@@ -1,0 +1,102 @@
+#head{
+	text-align: center;
+	min-height: 500px;
+	padding-top: 30%;
+	background-image: url('rename.jpg');
+	background-attachment: fixed;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+#cont{
+height: 220px;
+width: 200px;
+
+}
+#deco{
+font-size: 2em;
+}
+
+#cus{
+	font-size: 1.3em;
+	text-align: center;
+}
+.navbar-brand{
+	font-family: 'Dancing Script', cursive;
+    font-weight: 700;
+    line-height: 20px;
+    font-size: 42px;
+    margin: 0 0 10px 0;
+}
+.col-sm-4,
+.col-md-4{
+	padding-top: 5%;
+}
+body{
+	background-image: url(pen.jpg);
+	height: 100%;
+	background-size: cover;
+	background-attachment: fixed;
+}
+h1{
+	font-family: 'Dancing Script', cursive;
+    font-weight: 700;
+    line-height: 20px;
+    font-size: 42px;
+    margin: 0 0 10px 0;
+    color: #F4A460;
+}
+a{
+	color: #fff;
+}
+a:hover{
+	color: #F4A460;
+}
+#register{
+	border: 1px solid black;
+	border-radius: 4px;
+	padding: 2%;
+	color: white;
+	background-color: #3d3a3a;
+}
+.ded{
+	text-align: center;
+    font-family: 'EB Garamond', serif;
+    font-size: 120%;
+    letter-spacing: 2px;
+    color: white;
+    background-color: #3d3a3a;
+    background-size: cover;
+    padding-bottom: 3%;
+ }
+ h2{
+ 	font-family: 'Dancing Script', cursive;
+    font-weight: 700;
+    line-height: 20px;
+    font-size: 42px;
+    margin: 0 0 10px 0;
+    color: #ffffff;
+    text-align: center;
+ }
+ .mk{
+ 	padding-top: 3%;
+    padding-bottom: 3%;
+ }
+ .container-fluid{
+ 	text-align: center;
+ 	text-align: center;
+    font-family: 'EB Garamond', serif;
+    font-size: 120%;
+    letter-spacing: 2px;
+    color: white;
+    background-color: #3d3a3a;
+    background-size: cover;
+ }
+ #contact{
+ 	text-align: center;
+ 	text-align: center;
+    font-family: 'EB Garamond', serif;
+    font-size: 120%;
+    letter-spacing: 2px;
+    color: white;
+ }
